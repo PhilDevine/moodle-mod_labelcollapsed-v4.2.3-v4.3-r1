@@ -13,3 +13,4 @@
 # This version implements the Moodle native colour picker.
 # This version implements a rotating arrow icon.
 # This version implements Moodle template method.
+# This version includes an updated plugin icon for Moodle 4.4+
